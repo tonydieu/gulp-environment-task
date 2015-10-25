@@ -1,0 +1,45 @@
+{
+  "name": "gulp-environment-task",
+  "version": "1.0.0",
+  "description": "Environment builds in gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Dieu",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2",
+    "main-bower-files": "^2.9.0",
+    "yargs": "^3.29.0"
+  },
+  "dependencies": {
+    "gulp-concat": "^2.6.0",
+    "gulp-if": "^2.0.0",
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2",
+    "main-bower-files": "^2.9.0",
+    "yargs": "^3.29.0"
+  },
+  "keywords": [
+    "main-bower-files",
+    "gulp",
+    "plugin",
+    "gulp-main-bower-files",
+    "args",
+    "environment"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonydieu/gulp-environment-task.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tonydieu/gulp-environment-task/issues"
+  },
+  "homepage": "https://github.com/tonydieu/gulp-environment-task"
+}

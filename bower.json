@@ -1,0 +1,20 @@
+{
+  "name": "gulp-environment-task",
+  "version": "1.0.0",
+  "authors": [
+    "Tony Dieu"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-mobile": "~1.4.5"
+  },
+  "description": "Environment builds in gulp"
+}
